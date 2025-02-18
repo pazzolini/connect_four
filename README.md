@@ -1,9 +1,22 @@
-# Notebook
+# Overview
+
+This project was developed as part of the Laboratory of Artificial Intelligence course. It is an AI-driven implementation of the classic Connect Four game. It includes various AI strategies for decision-making, including A* search and Monte Carlo Tree Search (MCTS). The objective is to develop an AI agent capable of making optimal moves while playing against a human or another AI opponent.
+
+# Features
+
+Basic Connect Four gameplay logic
+AI integration using:
+- A Search Algorithm* for heuristic-based decision-making
+- Monte Carlo Tree Search (MCTS) for probabilistic decision-making
+- Support for human vs. AI and AI vs. AI gameplay
+- Performance analysis of AI agents based on statistical simulations
+
+## Notebook
 
 The ConnectFour.html notebook provides a complete description of the assignment's process, including code, results and analysis.
 
  
-# Other files and folders
+## Other files and folders
 
 Furthermore, we've also included all python classes and files mentioned in the Notebook, as well as the folder Results (which contains csv files with the simulation results that we discussed in the Notebook).
 
