@@ -1,0 +1,20 @@
+Configuration,Wins for X,Wins for O,Draws,Average Game Duration
+"RandomAIAgent vs MCTSAgent, 1000 iterations",1,99,0,0.516230742931366
+"MCTSAgent vs RandomAIAgent, 1000 iterations",100,0,0,0.5363527131080628
+"AStarAgent vs MCTSAgent, 1000 iterations",66,27,7,0.8620603632926941
+"MCTSAgent vs AStarAgent, 1000 iterations",36,60,4,1.1973333716392518
+,,,,
+"RandomAIAgent vs MCTSAgent, 2000 iterations",0,100,0,1.3305484104156493
+"MCTSAgent vs RandomAIAgent, 2000 iterations",100,0,0,1.30243999004364
+"AStarAgent vs MCTSAgent, 2000 iterations",45,51,4,2.155845036506653
+"MCTSAgent vs AStarAgent, 2000 iterations",56,40,4,2.2897815012931826
+,,,,
+"RandomAIAgent vs MCTSAgent, 4000 iterations",0,100,0,2.536602966785431
+"MCTSAgent vs RandomAIAgent, 4000 iterations",100,0,0,2.4484329891204832
+"AStarAgent vs MCTSAgent, 4000 iterations",25,57,18,4.376222414970398
+"MCTSAgent vs AStarAgent, 4000 iterations",65,32,3,5.1026545739173885
+,,,,
+"RandomAIAgent vs MCTSAgent, 10000 iterations",0,100,0,6.52647442817688
+"MCTSAgent vs RandomAIAgent, 10000 iterations",100,0,0,5.702698991298676
+"AStarAgent vs MCTSAgent, 10000 iterations",24,61,15,13.472304978370666
+"MCTSAgent vs AStarAgent, 10000 iterations",66,24,10,11.558522810935974

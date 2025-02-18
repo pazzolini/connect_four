@@ -1,0 +1,5 @@
+Configuration,Wins for X,Wins for O,Draws,Average Game Duration
+RandomAIPlayer vs RandomAIPlayer,532,463,5,0.00019004440307617188
+RandomAIPlayer vs AStarAgent,0,1000,0,0.03030767011642456
+AStarAgent vs RandomAIPlayer,1000,0,0,0.03049675154685974
+AStarAgent vs AStarAgent,502,0,498,0.15997280836105346
