@@ -1,6 +1,6 @@
 # Overview
 
-This project was developed as part of the Laboratory of Artificial Intelligence course. It is an AI-driven implementation of the classic Connect Four game. It includes various AI strategies for decision-making, including A* search and Monte Carlo Tree Search (MCTS). The objective is to develop an AI agent capable of making optimal moves while playing against a human or another AI opponent.
+This project was developed as part of the Artificial Intelligence course. It is an AI-driven implementation of the classic Connect Four game. It includes various AI strategies for decision-making, including A* search and Monte Carlo Tree Search (MCTS). The objective is to develop an AI agent capable of making optimal moves while playing against a human or another AI opponent.
 
 # Features
 
